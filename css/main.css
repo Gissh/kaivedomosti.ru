@@ -1,0 +1,30 @@
+body {
+    background-color: #f6f6f6;
+}
+
+.container {
+    background-color: white;
+}
+
+.glyph-icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+.stud_tr {
+    display: none;
+}
+
+.list-group-item.active {
+    background-color: #343a40;
+    border-color: #454d55;
+}
+
+.prepod_fio {
+    color: whitesmoke;
+}
+
+.prepod_fio:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}

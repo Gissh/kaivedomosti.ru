@@ -32,7 +32,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/php/checkEnter.php';
     <div class="container shadow-sm">
 
 
-        <h1>Тут че то должно быть</h1>
+        <h1>Список</h1>
 
         <ul>
 
